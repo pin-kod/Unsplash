@@ -1,0 +1,13 @@
+
+img {
+    width: 50%;
+}
+
+button {
+    border: none;
+   width: 50px;
+  height: 50px;
+background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPuAS-nOB_ev3jkNabWCgO1q_D77dAYsYjG-B59XHno6iE4OJwbxMB6fVdOrH9ElOslJo&usqp=CAU) 
+center bottom/60px auto no-repeat;
+ 
+}
